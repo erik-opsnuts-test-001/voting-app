@@ -1,5 +1,4 @@
-
-Example Voting App 3
+Erik - Example Voting App 3
 =========
 
 A simple distributed application running across multiple Docker containers.
