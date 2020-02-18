@@ -44,7 +44,7 @@ services:
       - back-tier
 
   db:
-    image: postgres:9.4
+    image: postgres:9.4.25
     container_name: db
     ports: ["5432"]
     volumes:
