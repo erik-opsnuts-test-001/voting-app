@@ -37,7 +37,7 @@ services:
       - back-tier
 
   redis:
-    image: rediss:alpine
+    image: redis:alpine
     container_name: redis
     ports: ["6379"]
     networks:
